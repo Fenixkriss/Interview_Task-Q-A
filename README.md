@@ -1,2 +1,3 @@
-# Interview_Task-Q-A
-Interview questions, test tasks, quizes 
+## Data science interview questions
+## Python coding interview questions and test tasks
+
