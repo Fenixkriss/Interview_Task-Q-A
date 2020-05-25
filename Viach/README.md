@@ -2,19 +2,19 @@
 
 yellow white 2 5 green red 6 1 -> green red 1 2 white yellow 5 6
 
-[task1_List_Sorter.py](https://github.com/Fenixkriss/Interview_Test_Tasks_and_Q/blob/master/Viach/task1_List_Sorter.py)
+[task1_List_Sorter.py](../blob/master/Viach/task1_List_Sorter.py)
 ---
 2. Есть последовательность чисел, содержащая как минимум 3 элемента, но которая может быть очень большой. Элементы являются целыми числами, которые либо все чётные, либо все нечётные, за исключением одного. Нужно написать скрипт, выводящий это единственное отличающееся число.
 
 [0 8 2 50 13 6 34] -> 13
 
-[task2_Black_Sheep.py](https://github.com/Fenixkriss/Interview_Test_Tasks_and_Q/blob/master/Viach/task2_Black_Sheep.py)
+[task2_Black_Sheep.py](../blob/master/Viach/task2_Black_Sheep.py)
 ---
 3. Написать скрипт, который составляет из списка положительных целых чисел максимально возможное число.
 
 [70 8 20 1 13] -> 87020131
 
-[task3_Maximus.py](https://github.com/Fenixkriss/Interview_Test_Tasks_and_Q/blob/master/Viach/task3_Maximus.py)
+[task3_Maximus.py](../blob/master/Viach/task3_Maximus.py)
 ---
 4. Написать функцию, принимающую последовательность словарей, содержащих имена и возвращающую имена через запятую, кроме последнего, присоединённого через амперсанд.
 
