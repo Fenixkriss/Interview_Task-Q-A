@@ -1,6 +1,6 @@
 # Task: Sorting the list (of string and numbers) with saved location according to the type of items.
 # Example:
-# 	Innitial list:     yellow  white 2 5  green  red    6 1 
+# 	Initial list:     yellow  white 2 5  green  red    6 1 
 # 	Final sorted list: green   red   1 2  white  yellow 5 6
 
 def List_Sorter_Ligth(lst_inn):
