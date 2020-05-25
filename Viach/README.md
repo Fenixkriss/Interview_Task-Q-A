@@ -14,7 +14,7 @@ yellow white 2 5 green red 6 1 -> green red 1 2 white yellow 5 6
 
 [70 8 20 1 13] -> 87020131
 
-[task3_Maximus.py](../blob/master/Viach/task3_Maximus.py)
+[task3_Maximus.py](../Viach/task3_Maximus.py)
 ---
 4. Написать функцию, принимающую последовательность словарей, содержащих имена и возвращающую имена через запятую, кроме последнего, присоединённого через амперсанд.
 
