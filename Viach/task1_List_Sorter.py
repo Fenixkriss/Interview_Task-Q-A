@@ -10,8 +10,8 @@ def List_Sorter_Ligth(lst_inn):
 	for x in lst_inn:
 		lst_of_str.append(x) if type(x)==str else lst_of_num.append(x) 
 	# Sorter
-	lst_of_str = sorted(lst_of_str)
-	lst_of_num = sorted(lst_of_num)
+	lst_of_str.sort()
+	lst_of_num.sort()
 	# Mixer
 	for x in lst_inn:
 		lst_out.append(lst_of_str.pop(0)) if type(x) == str else lst_out.append(lst_of_num.pop(0)) 
