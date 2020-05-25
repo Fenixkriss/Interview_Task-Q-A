@@ -8,13 +8,13 @@ yellow white 2 5 green red 6 1 -> green red 1 2 white yellow 5 6
 
 [0 8 2 50 13 6 34] -> 13
 
-[task2_Black_Sheep.py](../Viach/task2_Black_Sheep.py)
+#### [task2_Black_Sheep.py](../Viach/task2_Black_Sheep.py)
 ---
 3. Написать скрипт, который составляет из списка положительных целых чисел максимально возможное число.
 
 [70 8 20 1 13] -> 87020131
 
-[task3_Maximus.py](../Viach/task3_Maximus.py)
+#### [task3_Maximus.py](../Viach/task3_Maximus.py)
 ---
 4. Написать функцию, принимающую последовательность словарей, содержащих имена и возвращающую имена через запятую, кроме последнего, присоединённого через амперсанд.
 
@@ -37,4 +37,5 @@ recipe = {"flour": 500, "sugar": 200, "eggs": 1}
 available = {"flour": 1200, "sugar": 1200, "eggs": 5, "milk": 200}
 count(recipe, available) -> 2
 
-[task6_Servings.py](../Viach/task6_Servings.py)
+#### [task6_Servings.py](../Viach/task6_Servings.py)
+---
