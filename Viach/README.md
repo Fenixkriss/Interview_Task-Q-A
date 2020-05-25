@@ -22,15 +22,17 @@ yellow white 2 5 green red 6 1 -> green red 1 2 white yellow 5 6
 [{'name': 'John'}, {'name': 'Jack'}] -> 'John & Jack'
 [{'name': 'John'}] -> 'John'
 
+[task4_Greet.py](../Viach/task4_Greet.py)
 ---
 5. Написать скрипт, который принимает строку, состоящую из слов, разделённых символом _ или - и возвращает строку в camel case. При этом регистр первого символа менять не нужно.
 
 the_phantom_menace -> thePhantomMenace
 The-Phantom-Menace -> ThePhantomMenace
-
+[task5_Camel_case.py](../Viach/task5_Camel_case.py)
 ---
 6. Написать функцию, которая принимает словарь с рецептом и словарь с количеством доступных ингридиентов и возвращает количество порций, которые мы можем приготовить.
 
 recipe = {"flour": 500, "sugar": 200, "eggs": 1}
 available = {"flour": 1200, "sugar": 1200, "eggs": 5, "milk": 200}
 count(recipe, available) -> 2
+[task6_Servings.py](../Viach/task6_Servings.py)
