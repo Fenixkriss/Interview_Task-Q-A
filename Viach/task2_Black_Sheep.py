@@ -9,4 +9,4 @@ test_sum = lst[0] % 2 + lst[1] % 2 + lst[2] % 2
 target = 1 if test_sum < 2 else 0
 result = [x for x in lst if x%2 == target]
 print('Innitial list:\n', lst)
-print('Black Sheep is', result)
+print('Black Sheep is', result[0])
